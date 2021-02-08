@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there, I'm [Tristan](http://tristanlemire.com/) 👋
+
+### Github stats
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TristanLemireo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TristanLemire&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **TristanLemire/TristanLemire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
