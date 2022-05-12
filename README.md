@@ -1,7 +1,5 @@
 ## Hi there, I'm [Tristan](http://tristanlemire.com/) 👋
 
-<a href="https://app.daily.dev/Scala"><img src="https://api.daily.dev/devcards/717e774e67064c7685f701202dd2ea6c.png?r=9cd" width="400" alt="Tristan Lemire's Dev Card"/></a>
-
 ### Github stats
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TristanLemire&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TristanLemire&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
