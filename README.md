@@ -1,4 +1,4 @@
-## Hi there, I'm [Tristan](http://tristanlemire.com/) 👋
+## Hi there, I'm Tristan 👋
 
 ### Github stats
 
