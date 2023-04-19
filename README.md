@@ -1,9 +1,5 @@
-<h1 align="center">Hi 👋, I'm Tristan <p align="left"> <img src="https://komarev.com/ghpvc/?username=tristanlemire&label=Profile%20views&color=0e75b6&style=flat" alt="tristanlemire" /> </p> </h1>
+<h1 align="center">Hi 👋, I'm Tristan </h1>
 <h3 align="center">Front-end developer based in Paris, specialized in React, with three years of experience. During my time at Ouihelp, I obtained my Bachelor's degree in Web Development from HETIC after completing a BTS SIO. In addition to my work, I enjoy staying up-to-date on the latest trends and technologies in web development.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tristanlemire&label=Profile%20views&color=0e75b6&style=flat" alt="tristanlemire" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tristanlemire" alt="tristanlemire" /></a> </p>
 
 - 📫 How to reach me **tristan.lemire.sio@gmail.com**
 
