@@ -44,3 +44,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 📊 Github stats:
+
+<p align = "center">
+<img src = "https://github-readme-stats.vercel.app/api?username=TristanLemire&show_icons=true&theme=radical" width= "433px">
+<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=TristanLemire&layout=compact&theme=radical&langs_count=8">
+</p>
+
+## 🏆 GitHub Trophies:
+<br>
+<p align = "center">
+<img src = "https://github-profile-trophy.vercel.app/?username=TristanLemire&theme=radical&row=3&column=3">
+</p>
+<p align = "center">
+
+## 📈 My Stats:
+<br>
+<p align = "center">
+<img src = "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TristanLemire&theme=radical" width = "280px">
+<img src = "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TristanLemire&theme=radical" width = "280px">
+<br>
+<img src = "https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TristanLemire&theme=radical" width = "280px">
+<img src = "https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TristanLemire&theme=radical&utcOffset=2" width = "280px">
+</p>
+<p align = "center">
