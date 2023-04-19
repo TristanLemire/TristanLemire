@@ -2,7 +2,7 @@
 
 ### Github stats
 
-<p align = "center">
+<p>
   <img src = "https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lucksi&theme=radical">
   <img src = "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TristanLemire&theme=radical">
 </p>
