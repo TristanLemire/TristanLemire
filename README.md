@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tristan</h1>
+<h1 align="center">Hi 👋, I'm Tristan <p align="left"> <img src="https://komarev.com/ghpvc/?username=tristanlemire&label=Profile%20views&color=0e75b6&style=flat" alt="tristanlemire" /> </p> </h1>
 <h3 align="center">Front-end developer based in Paris, specialized in React, with three years of experience. During my time at Ouihelp, I obtained my Bachelor's degree in Web Development from HETIC after completing a BTS SIO. In addition to my work, I enjoy staying up-to-date on the latest trends and technologies in web development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tristanlemire&label=Profile%20views&color=0e75b6&style=flat" alt="tristanlemire" /> </p>
@@ -45,9 +45,3 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tristanlemire&show_icons=true&locale=en&layout=compact" alt="tristanlemire" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tristanlemire&show_icons=true&locale=en" alt="tristanlemire" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tristanlemire&" alt="tristanlemire" /></p>
