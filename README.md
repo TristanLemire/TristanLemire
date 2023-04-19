@@ -3,8 +3,8 @@
 ### Github stats
 
 <p align = "center">
-<img src = "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TristanLemire&theme=radical" width = "280px">
-<img src = "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TristanLemire&theme=radical" width = "280px">
+  <img src = "https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lucksi&theme=radical" width = "280px">
+  <img src = "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TristanLemire&theme=radical" width = "280px">
 </p>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
