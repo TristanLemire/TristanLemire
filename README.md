@@ -2,8 +2,10 @@
 
 ### Github stats
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TristanLemire&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TristanLemire&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
+<p align = "center">
+<img src = "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TristanLemire&theme=radical" width = "280px">
+<img src = "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TristanLemire&theme=radical" width = "280px">
+</p>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -44,15 +46,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-## 📈 My Stats:
-<br>
-<p align = "center">
-<img src = "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TristanLemire&theme=radical" width = "280px">
-<img src = "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TristanLemire&theme=radical" width = "280px">
-<br>
-<img src = "https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TristanLemire&theme=radical" width = "280px">
-<img src = "https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TristanLemire&theme=radical&utcOffset=2" width = "280px">
-</p>
-<p align = "center">
