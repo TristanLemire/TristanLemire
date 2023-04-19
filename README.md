@@ -4,7 +4,6 @@
 
 <p>
   <img src = "https://github-profile-summary-cards.vercel.app/api/cards/stats?username==TristanLemire&theme=radical">
-  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username==TristanLemire&layout=compact&theme=radical&langs_count=8">
   <img src = "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TristanLemire&theme=radical">
 </p>
 
