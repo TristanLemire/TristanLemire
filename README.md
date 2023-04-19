@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Tristan </h1>
-<h3 align="center">Front-end developer based in Paris, specialized in React, with three years of experience. During my time at Ouihelp, I obtained my Bachelor's degree in Web Development from HETIC after completing a BTS SIO. In addition to my work, I enjoy staying up-to-date on the latest trends and technologies in web development.</h3>
+<h1 align="left">Hi 👋, I'm Tristan </h1>
+<h3 align="left">Front-end developer based in Paris, specialized in React, with three years of experience. During my time at Ouihelp, I obtained my Bachelor's degree in Web Development from HETIC after completing a BTS SIO. In addition to my work, I enjoy staying up-to-date on the latest trends and technologies in web development.</h3>
 
 - 📫 How to reach me **tristan.lemire.sio@gmail.com**
 
@@ -12,7 +12,7 @@
 
 ### Github stats
 
-<p>
+<p align="left>
   <img src = "https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TristanLemire&theme=radical">
   <img src = "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TristanLemire&theme=radical">
 </p>
