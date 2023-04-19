@@ -45,19 +45,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 📊 Github stats:
-
-<p align = "center">
-<img src = "https://github-readme-stats.vercel.app/api?username=TristanLemire&show_icons=true&theme=radical" width= "433px">
-<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=TristanLemire&layout=compact&theme=radical&langs_count=8">
-</p>
-
-## 🏆 GitHub Trophies:
-<br>
-<p align = "center">
-<img src = "https://github-profile-trophy.vercel.app/?username=TristanLemire&theme=radical&row=3&column=3">
-</p>
-<p align = "center">
 
 ## 📈 My Stats:
 <br>
